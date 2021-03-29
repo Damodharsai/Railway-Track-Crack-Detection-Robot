@@ -11,6 +11,7 @@ So, for reduction of railway accidents we came up with an idea. By using an auto
 
 # Proposed System:
 In this project, a cost- effective autonomous railway crack detector robot is proposed for Indian railway. This device can generate a complete solution for the railway track that starts with crack detection, fault analysis using ultrasonic sensor and that end up with an SMS alert to the concerned authority which consists of the location of the crack. Therefore, making it easier to prevent accidents.
+
 ![image](https://user-images.githubusercontent.com/78199382/112831259-52eff200-90b1-11eb-951b-81bc128245ac.png)
 
 # Architecture of the System:
